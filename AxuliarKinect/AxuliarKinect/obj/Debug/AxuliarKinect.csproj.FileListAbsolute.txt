@@ -1,0 +1,7 @@
+c:\users\usuario\documents\visual studio 2015\Projects\AxuliarKinect\AxuliarKinect\obj\Debug\AxuliarKinect.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\AxuliarKinect\AxuliarKinect\bin\Debug\AxuliarKinect.dll
+c:\users\usuario\documents\visual studio 2015\Projects\AxuliarKinect\AxuliarKinect\bin\Debug\AxuliarKinect.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\AxuliarKinect\AxuliarKinect\bin\Debug\Microsoft.Kinect.dll
+c:\users\usuario\documents\visual studio 2015\Projects\AxuliarKinect\AxuliarKinect\bin\Debug\Microsoft.Kinect.xml
+c:\users\usuario\documents\visual studio 2015\Projects\AxuliarKinect\AxuliarKinect\obj\Debug\AxuliarKinect.dll
+c:\users\usuario\documents\visual studio 2015\Projects\AxuliarKinect\AxuliarKinect\obj\Debug\AxuliarKinect.pdb
